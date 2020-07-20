@@ -20,6 +20,8 @@
 
 **🌱 Tools :**
 
+<code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <code><a href="https://www.openstack.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></a></code>
 
