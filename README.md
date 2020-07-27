@@ -26,3 +26,5 @@
 <code><a href="https://www.openstack.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></a></code>
 
 ![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=mystic-cg&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-cg&layout=compact)](https://github.com/mystic-cg/github-readme-stats)
