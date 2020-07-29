@@ -27,4 +27,4 @@
 
 ![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=mystic-cg&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-cg&hide=html,css)](https://github.com/mystic-cg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-cg)](https://github.com/mystic-cg)
