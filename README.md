@@ -25,6 +25,6 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <code><a href="https://www.openstack.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></a></code>
 
-![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=mystic-cg&show_icons=true&include_all_commits=true)
+![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=purplemysticx&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-cg&count_private=true&hide=html,css)](https://github.com/mystic-cg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&count_private=true&hide=html,css)](https://github.com/purplemysticx)
