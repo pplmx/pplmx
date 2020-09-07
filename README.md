@@ -27,4 +27,4 @@
 
 ![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=purplemysticx&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&count_private=true&hide=html,css)](https://github.com/purplemysticx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
