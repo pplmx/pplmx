@@ -29,4 +29,4 @@
 
 <a href="https://coderstats.net/github/#purplemysticx" target="_blank">Code Stats</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&langs_count=5&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
