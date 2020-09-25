@@ -31,4 +31,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&langs_count=10&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
 
-[![Mystic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purplemysticx)](https://github.com/purplemysticx)
