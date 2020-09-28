@@ -2,16 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=purplemysticx&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 **🌱 Languages :**
 
 <code><a href="https://openjdk.java.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
@@ -27,9 +17,9 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <code><a href="https://www.openstack.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></a></code>
 
-![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=purplemysticx&show_icons=true&include_all_commits=true)
+![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=purplemysticx&show_icons=true&include_all_commits=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&layout=compact&langs_count=10&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
 
 <a href="https://coderstats.net/github/#purplemysticx" target="_blank">Code Stats</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&langs_count=10&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
 
