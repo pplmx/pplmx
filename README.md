@@ -19,4 +19,4 @@
 <code><a href="https://www.openstack.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></a></code>
 
 ![Mystic's github stats](https://github-readme-stats.vercel.app/api?username=purplemysticx&show_icons=true&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&layout=compact&langs_count=10&count_private=true&hide=html,css,javascript)](https://github.com/purplemysticx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplemysticx&langs_count=10&count_private=true&hide=html,css,javascript,batchfile)](https://github.com/purplemysticx)
