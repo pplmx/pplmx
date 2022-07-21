@@ -62,6 +62,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/pplmx/pplmx/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/pplmx/pplmx/output/snake.svg" alt="Snake animation" />
 
 ###
