@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pplmx" alt="pplmx" /></a> </p>
 
-- 🔭 I’m currently working on [blog](https://github.com/pplmo/blog)
 
-- 🌱 I’m currently learning **Go, Machine Learning**
-
-- 👯 I’m looking to collaborate on [blog](https://github.com/pplmo/blog)
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with [Machine Learning](https://github.com/pplmx)
 
