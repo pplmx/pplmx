@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pplmx&label=Profile%20views&color=0e75b6&style=flat" alt="pplmx" /> </p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pplmx/count.svg?"  />
+</div>
+
+###
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pplmx" alt="pplmx" /></a> </p>
 
 
@@ -51,3 +59,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pplmx&show_icons=true&locale=en" alt="pplmx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pplmx&" alt="pplmx" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=pplmx" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=pplmx" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/pplmx/pplmx/blob/output/snake.svg" alt="Snake animation" />
+
+###
