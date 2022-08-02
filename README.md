@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mystic, or 紫玄</h1>
 <h3 align="center">道可道,非常道 名可名,非常名</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pplmx&label=Profile%20views&color=0e75b6&style=flat" alt="pplmx" /> </p>
+###
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pplmx&&style=flat-square" align="center" />
+</div>  
 
 ###
 
@@ -42,3 +46,4 @@
 <img src="https://raw.githubusercontent.com/pplmx/pplmx/output/snake.svg" alt="Snake animation" />
 
 ###
+
