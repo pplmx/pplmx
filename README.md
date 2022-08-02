@@ -11,32 +11,6 @@
 
 ###
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🤝 I’m looking for help with [Machine Learning](https://github.com/pplmx)
-
-- 👨‍💻 All of my projects are available at [https://caoyu.info/](https://caoyu.info/)
-
-- 📝 I regularly write articles on [https://blog.caoyu.info/](https://blog.caoyu.info/)
-
-- 💬 Ask me about **Python, Java, Go, C++**
-
-- 📫 How to reach me **https://caoyu.info/**
-
-- 📄 Know about my experiences [https://caoyu.info/](https://caoyu.info/)
-
-- ⚡ Fun fact **Reading, Curious in Maths, Physics**
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/8529565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8529565" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pplmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pplmx" height="30" width="40" /></a>
-</p>
-
-###
-
 **🌱 Languages :**
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
