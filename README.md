@@ -3,9 +3,16 @@
 
 ###
 
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=pplmx&&style=flat-square" align="center" />
-</div>  
+
+[![Years Badge](https://badges.strrl.dev/years/pplmx)](https://badges.strrl.dev)
+[![Public Repos Badge](https://badges.strrl.dev/repos/pplmx)](https://badges.strrl.dev)
+[![Public Gists Badge](https://badges.strrl.dev/gists/pplmx)](https://badges.strrl.dev)
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/pplmx)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/monthly/pplmx)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/commits/monthly/pplmx)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/issues-and-prs/monthly/pplmx)](https://badges.strrl.dev)
 
 ###
 
@@ -45,46 +52,3 @@
 
 <img src="https://raw.githubusercontent.com/pplmx/pplmx/output/snake.svg" alt="Snake animation" />
 
-###
-
-[![Years Badge](https://badges.strrl.dev/years/pplmx)](https://badges.strrl.dev)
-
-[![Public Repos Badge](https://badges.strrl.dev/repos/pplmx)](https://badges.strrl.dev)
-
-[![Public Gists Badge](https://badges.strrl.dev/gists/pplmx)](https://badges.strrl.dev)
-
-###
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/daily/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/monthly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/yearly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/pplmx)](https://badges.strrl.dev)
-
-###
-
-[![Contributions Badge](https://badges.strrl.dev/commits/daily/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/commits/weekly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/commits/monthly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/commits/yearly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/commits/all/pplmx)](https://badges.strrl.dev)
-
-###
-
-[![Contributions Badge](https://badges.strrl.dev/issues-and-prs/daily/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/issues-and-prs/weekly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/issues-and-prs/monthly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/issues-and-prs/yearly/pplmx)](https://badges.strrl.dev)
-
-[![Contributions Badge](https://badges.strrl.dev/issues-and-prs/all/pplmx)](https://badges.strrl.dev)
