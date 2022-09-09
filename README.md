@@ -52,5 +52,5 @@
 
 <img src="https://raw.githubusercontent.com/pplmx/pplmx/output/snake.svg" alt="Snake animation" />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pplmx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pplmx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
