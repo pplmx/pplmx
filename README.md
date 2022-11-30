@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mystic, or 紫玄</h1>
-<h3 align="center">道可道,非常道 名可名,非常名</h3>
+<h3 align="center">道可道，非常道．名可名，非常名</h3>
 
 ###
 
