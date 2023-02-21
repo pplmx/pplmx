@@ -16,12 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pplmx/count.svg?"  />
-</div>
-
-###
-
 **🌱 Languages :**
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
@@ -43,11 +37,9 @@
 <code><a href="https://www.openstack.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pplmx&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&exclude_repo=pplmx.github.io,pplmx.main,caoyu.info,yoooo.fun,vimConfig,hexo-pwa,hugo-theme-next&hide=html,javascript,css,scss" alt="pplmx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pplmx&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&exclude_repo=pplmx.github.io,pplmx.main,caoyu.info,yoooo.fun,vimConfig,hexo-pwa,hugo-theme-next&hide=html,javascript,css,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pplmx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pplmx&show_icons=true&locale=en" alt="pplmx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pplmx&" alt="pplmx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pplmx&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pplmx" /></p>
 
 ###
 
