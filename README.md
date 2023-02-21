@@ -20,9 +20,9 @@
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></a></code>
-<code><a href="https://openjdk.java.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-<br/>
 <code><a href="https://en.cppreference.com/w/" target="_blank"><img height="50" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></a></code>
+<br/>
+<code><a href="https://openjdk.java.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https://www.rust-lang.org/" target="_blank"><img height="50" src="https://www.rust-lang.org/logos/rust-logo-64x64.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></a></code>
