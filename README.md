@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pplmx/pplmx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pplmx/pplmx/snake/snake.svg" alt="Snake animation" />
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pplmx&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
