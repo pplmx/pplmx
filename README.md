@@ -46,7 +46,7 @@
 <div align="center">
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pplmx&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pplmx&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&exclude_repo=pplmx.github.io,pplmx.main,caoyu.info,yoooo.fun,vimConfig,hexo-pwa,hugo-theme-next&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pplmx&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&exclude_repo=pplmx.github.io,pplmx.main,caoyu.info,yoooo.fun&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 </div>
 
@@ -63,5 +63,3 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=pplmx&theme=xcode&bg_color=FF000000&hide_border=true" />
     </picture>
 </div>
-
-
