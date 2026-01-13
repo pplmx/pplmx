@@ -45,8 +45,16 @@
 
 <div align="center">
 
+<!--
+Legacy:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pplmx&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pplmx&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&exclude_repo=pplmx.github.io,index,blog,notes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+New:
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+-->
+<img height="137px" src="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&exclude_repo=pplmx.github.io,index,blog,notes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 </div>
 
