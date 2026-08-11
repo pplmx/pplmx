@@ -55,14 +55,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&theme=github_dark&bg_color=00000000" />
-  <img height="137px" src="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,blog,notes,MyNotes,blog-frontend&theme=github_dark&bg_color=00000000" />
-  <img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,blog,notes,MyNotes,blog-frontend&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</picture>
+<img height="137px" src="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,blog,notes,MyNotes,blog-frontend&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <br><br>
 
