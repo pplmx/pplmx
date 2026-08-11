@@ -55,8 +55,14 @@
 
 <div align="center">
 
-<img height="137px" src="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,blog,notes,MyNotes,blog-frontend&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=fff&icon_color=fff&bg_color=0,7f3434,8f6a1e,8f8c1e,258f2b&theme=graywhite" />
+  <img height="137px" src="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,blog,notes,MyNotes,blog-frontend&text_color=fff&icon_color=fff&bg_color=0,258f2b,1e8f92,6b1e92&theme=graywhite" />
+  <img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,blog,notes,MyNotes,blog-frontend&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</picture>
 
 <br><br>
 
