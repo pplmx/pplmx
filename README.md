@@ -25,27 +25,27 @@
 
 <a href="https://github.com/pplmx/husky-rs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=husky-rs&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img height="140px" src="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=husky-rs&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=husky-rs&theme=github_dark&hide_border=true&bg_color=00000000&description_lines_count=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=husky-rs&hide_border=true&bg_color=00000000&description_lines_count=2" />
   </picture>
 </a>
 <a href="https://github.com/pplmx/vllm-lite">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=vllm-lite&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img height="140px" src="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=vllm-lite&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=vllm-lite&theme=github_dark&hide_border=true&bg_color=00000000&description_lines_count=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=vllm-lite&hide_border=true&bg_color=00000000&description_lines_count=2" />
   </picture>
 </a>
 
 <a href="https://github.com/pplmx/nova">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=nova&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img height="140px" src="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=nova&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=nova&theme=github_dark&hide_border=true&bg_color=00000000&description_lines_count=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pplmx&repo=nova&hide_border=true&bg_color=00000000&description_lines_count=2" />
   </picture>
 </a>
 <a href="https://github.com/x-pt/template">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=x-pt&repo=template&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img height="140px" src="https://github-stats-extended.vercel.app/api/pin/?username=x-pt&repo=template&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=x-pt&repo=template&theme=github_dark&hide_border=true&bg_color=00000000&description_lines_count=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=x-pt&repo=template&hide_border=true&bg_color=00000000&description_lines_count=2" />
   </picture>
 </a>
 
