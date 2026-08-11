@@ -65,6 +65,13 @@
   <img src="https://raw.githubusercontent.com/pplmx/pplmx/profile3d/profile-season-animate.svg" />
 </picture>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pplmx/pplmx/snake/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/pplmx/pplmx/snake/snake.svg" />
+</picture>
+
 </div>
 
 <div align="center">
