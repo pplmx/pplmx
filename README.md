@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mystic (紫玄)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=480&lines=To+infinity+and+beyond+%F0%9F%9A%80;Rustacean+%F0%9F%A6%80+%C2%B7+Gopher+%C2%B7+Pythonista;Cloud+Native+%26+LLM+Inference+Explorer)](https://github.com/pplmx)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=480&lines=To+infinity+and+beyond+%F0%9F%9A%80;Rustacean+%F0%9F%A6%80+%C2%B7+Gopher+%C2%B7+Pythonista;Cloud+Native+%26+LLM+Inference+Explorer)](https://github.com/pplmx)
 
 **道可道, 非常道; 名可名, 非常名。**
 
