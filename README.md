@@ -19,6 +19,8 @@
 - ☁️ Living in the **Cloud Native** world: Kubernetes, Docker, OpenStack
 - 🌌 `Location: Everywhere & Nowhere` — writing occasionally at [pplmx.github.io](https://pplmx.github.io)
 
+<!--
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -50,6 +52,8 @@
 </a>
 
 </div>
+
+-->
 
 ## 📊 GitHub Stats
 
