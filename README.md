@@ -64,8 +64,8 @@
   <img height="137px" src="https://github-stats-extended.vercel.app/api?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html%2Ccss%2Cscss&exclude_repo=pplmx.github.io%2Cindex%2Cxian%2Cblog%2Cnotes%2CMyNotes%2Cblog-frontend&text_color=fff&icon_color=fff&bg_color=0%2C258f2b%2C1e8f92%2C6b1e92&theme=graywhite" />
-  <img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss&exclude_repo=pplmx.github.io,index,xian,blog,notes,MyNotes,blog-frontend&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html%2Ccss%2Cscss%2Ctypescript%2Cjavascript%2Cvue&exclude_repo=pplmx.github.io%2Cindex%2Cxian%2Cwanxiang-engine%2Cblog%2Cnotes%2CMyNotes%2Cblog-frontend&text_color=fff&icon_color=fff&bg_color=0%2C258f2b%2C1e8f92%2C6b1e92&theme=graywhite" />
+  <img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pplmx&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&hide=html,css,scss,typescript,javascript,vue&exclude_repo=pplmx.github.io,index,xian,wanxiang-engine,blog,notes,MyNotes,blog-frontend&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </picture>
 
 <br><br>
