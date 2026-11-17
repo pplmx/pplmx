@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-- 🦀 Building tools & systems in **Rust** — from git hooks to a lightweight LLM inference engine
+- 🦀 Building tools & systems in **Rust** — from [git hooks](https://github.com/pplmx/husky-rs) to a [lightweight LLM inference engine](https://github.com/pplmx/vllm-lite)
 - 🧠 Exploring **LLM inference** and **CUDA parallel computing**
 - 🧰 Maintaining [**@x-pt**](https://github.com/x-pt) — project templates for Python / Go / Rust / TS / C++ / CUDA
 - ☁️ Living in the **Cloud Native** world: Kubernetes, Docker, OpenStack
